@@ -1,0 +1,70 @@
+.heading {
+    margin-left: 30%;
+    margin-top: 60px;
+}
+
+input[type=text],
+input[type=tel],
+ input[type=email] {
+
+    padding: 5px 25px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+  }
+
+.button {
+    margin-left : 27%;
+    padding: 5px 15px;
+    background-color : #0247fe;
+    color: black;
+}
+
+.container {
+    width: 55%;
+    margin-left: 33%;
+    margin-top: 2%;
+}
+
+.contacts {
+    margin-left: 40%;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+table {
+    border-color:black;
+    width: 60%;
+
+
+}
+
+tr {
+    background-color: #f5f5f5;
+
+}
+
+th {
+    background-color: gray;
+}
+th,td {
+
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+
+}
+
+tr:hover {
+    background-color: #cdcdcd;
+}
+
+.tables {
+    margin-left:15%;
+}
+
+.mycontacts {
+    margin-left:40%;
+    font-size:20px;
+    font-weight:bold;
+}
